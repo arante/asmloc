@@ -1,2 +1,2 @@
 # asmloc
-A collectionf of Assembly (NASM) lines of code.
+A collection of Assembly (NASM) lines of code.
